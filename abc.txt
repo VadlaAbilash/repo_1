@@ -3,7 +3,7 @@
 <title> hello </title>
 </head>
 <body>
-
+<h2> </h2>
 <h1>  Headings </h1>
 <p> git is a version controller </p>
 </body>
